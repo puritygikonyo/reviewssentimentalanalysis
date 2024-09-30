@@ -1,4 +1,4 @@
-# Text Prediction Model - Natural Language Toolkit(NLTK) and deployed app on streamlit
+# Text Prediction Machine Learning Model - Natural Language Toolkit(NLTK) and deployed app on streamlit
 ## Text prediction machine learning app
 
 This Streamlit app, **Text Pred**, provides a user-friendly interface for performing sentiment analysis on text reviews. It allows users to input a single review or upload an Excel file containing multiple reviews for batch processing. The app uses a pre-trained machine learning model to predict whether the reviews are positive or negative.
