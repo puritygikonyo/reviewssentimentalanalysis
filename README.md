@@ -1,9 +1,19 @@
 # Text Prediction Machine Learning Model - Natural Language Toolkit(NLTK) and deployed app on streamlit
-## Text prediction machine learning app
+## Project Purpose:
+To demonstrate a full ML project from scratch to deployment to a web app.
+
+## Business Case:
+To create a model that accurately predicts text and categorizes on whether text is positive or negative. Why not neutral? Neutral comments do not make any business sense since emotions can only be categorized as negative or positive.
+
+## Goal:
+To accurately predict text as positive or negative so that a company can accurately know a product or service reception by the customer.
+
+## Deliverable:
+### Brief introduction on the app
 
 This Streamlit app, **Text Pred**, provides a user-friendly interface for performing sentiment analysis on text reviews. It allows users to input a single review or upload an Excel file containing multiple reviews for batch processing. The app uses a pre-trained machine learning model to predict whether the reviews are positive or negative.
 
-## Features
+### Features
 
 - **Single Review Prediction**: Input a single text review and get an immediate sentiment prediction (positive/negative).
 - **Batch Processing**: Upload an Excel file with multiple reviews, and the app will predict the sentiment for each review.
@@ -27,9 +37,9 @@ This Streamlit app, **Text Pred**, provides a user-friendly interface for perfor
 - The app will display a preview of the uploaded data.
 - Once processed, the sentiment analysis results will be displayed.
 - You can download the updated Excel file with the new `Sentiment` column by clicking the **Download Excel with Sentiment** button.
-## 3. Section showing visuals giving an overview of the analysis of the batch excel file uploaded
+### 3. Section showing visuals giving an overview of the analysis of the batch excel file uploaded
 
-## Prerequisites
+### Prerequisites
 
 Before running the app, make sure you have the following installed:
 
