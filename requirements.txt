@@ -1,0 +1,8 @@
+streamlit # Ensure this matches the version you're using
+pandas  # Ensure it matches your environment version
+numpy # For numerical operations
+scikit-learn # For machine learning and sentiment analysis
+nltk # For natural language processing
+openpyxl # For reading/writing Excel files
+matplotlib # Version of matplotlib to handle charts
+wordcloud # For generating word clouds
